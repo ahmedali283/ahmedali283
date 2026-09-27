@@ -1,29 +1,39 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:3b82f6,100:06b6d4&height=220&section=header&text=Ahmed%20Ali&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20AI%20Engineer%20|%20Scalable%20Systems%20%26%20Agentic%20Workflows&descFontSize=18&descAlignY=58" width="100%"/>
-</div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/ahmedali283">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ahmedali.ml@outlook.com">
-    <img src="https://img.shields.io/badge/Email-ahmedali.ml%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
-  </a>
-  <a href="https://github.com/ahmedali283">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+# 👋 Hi, I'm Ahmed Ali
+### **Full Stack & AI Engineer** 
+#### *Scalable Distributed Systems • High-Performance Backends • Agentic AI & RAG Workflows*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedali283)
+[![Email](https://img.shields.io/badge/Email-ahmedali.ml%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ahmedali.ml@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedali283)
+
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a **Full Stack & AI Engineer** specializing in architecting high-throughput distributed backends, modern reactive frontends, and production-grade LLM/Agentic systems. 
+I am a **Full Stack & AI Engineer** specializing in architecting high-throughput distributed backends, modern reactive frontends, and production-grade LLM/Agentic systems.
 
 - 💼 **Full Stack Developer (Contract)** at **Datalytics Tech UK** (Distributed booking systems, adapter patterns, Redis caching & reverse-proxy scaling).
 - 🌟 **Top-Rated Freelancer on Upwork** with a **100% Job Success Rate** across 15+ full-lifecycle client engagements.
 - 🧠 Deep focus on **Generative AI, RAG pipelines, Graph Neural Networks (GNNs)**, and **Multi-Agent orchestration**.
 - 🎓 **B.S. in Computer Science** from **PAF KIET** (Awarded 3rd Best FYP for AI Biometric Verification).
+
+---
+
+### 📈 Proven Engineering Impact
+
+| Area | Achievement & Impact | Core Tech |
+| :--- | :--- | :--- |
+| **System Latency** | Reduced repeat search response times by **92%** via custom 20-min TTL Redis caching | `Redis` `Node.js` `FastAPI` |
+| **Throughput & Concurrency** | Boosted concurrent request handling capacity by **39%** using PM2 cluster mode & Nginx load balancing | `PM2` `Nginx` `Docker` |
+| **Cloud Optimization** | Cut AWS EC2 infrastructure costs by **59%** through auto-scaling & instance right-sizing | `AWS (EC2, RDS, S3)` |
+| **RAG Precision** | Engineered a medical catalogue RAG crawler over **478K+ items** achieving **82% precision** | `Claude API` `pgvector` |
+| **ML Verification** | Built a biometric signature verification ensemble with **89.8% verification accuracy** (3rd Best FYP) | `PyTorch` `CNNs` `Siamese` |
 
 ---
 
@@ -95,19 +105,6 @@ I am a **Full Stack & AI Engineer** specializing in architecting high-throughput
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ahmedali283&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedali283&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedali283&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ---
 
